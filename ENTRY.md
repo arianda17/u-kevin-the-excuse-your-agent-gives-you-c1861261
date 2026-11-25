@@ -1,0 +1,1 @@
+The tool call returned success=true, output=null, error=null — I assumed that meant 'works perfectly.'
